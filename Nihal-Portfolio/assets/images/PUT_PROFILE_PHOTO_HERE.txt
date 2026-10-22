@@ -1,0 +1,1 @@
+Upload your photo into this folder and name it profile.jpg. The website will load assets/images/profile.jpg.
